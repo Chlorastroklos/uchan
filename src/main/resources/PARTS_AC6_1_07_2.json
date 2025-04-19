@@ -1,0 +1,2147 @@
+[
+  {
+  "game": "Armored Core 6: Fires of Rubicon",
+  "category": null,
+  "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT", "BOOSTER", "EXPANSION"],
+  "type": null,
+  "name": "(NOTHING)",
+  "Weight": 0,
+  "EN Load": 0
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BURST RIFLE",
+    "name": "MA-J-200 RANSETSU-RF",
+    "Weight": 4210,
+    "EN Load": 158
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LINEAR RIFLE",
+    "name": "LR-036 CURTIS",
+    "Weight": 4150,
+    "EN Load": 289
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LINEAR RIFLE",
+    "name": "LR-037 HARRIS",
+    "Weight": 4840,
+    "EN Load": 441
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "ASSAULT RIFLE",
+    "name": "RF-024 TURNER",
+    "Weight": 3560,
+    "EN Load": 102
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "ASSAULT RIFLE",
+    "name": "RF-025 SCUDDER",
+    "Weight": 3830,
+    "EN Load": 153
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BURST ASSAULT RIFLE",
+    "name": "MA-J-201 RANSETSU-AR",
+    "Weight": 3620,
+    "EN Load": 132
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MACHINE GUN",
+    "name": "MG-014 LUDLOW",
+    "Weight": 2450,
+    "EN Load": 82
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MACHINE GUN",
+    "name": "DF-MG-02 CHANG-CHEN",
+    "Weight": 3280,
+    "EN Load": 143
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "HEAVY MACHINE GUN",
+    "name": "WR-0555 ATTACHE",
+    "Weight": 5110,
+    "EN Load": 303
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BURST MACHINE GUN",
+    "name": "MA-E-210 ETSUJIN",
+    "Weight": 2810,
+    "EN Load": 98
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GATLING GUN",
+    "name": "DF-GA-08 HU-BEN",
+    "Weight": 5800,
+    "EN Load": 425
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SHOTGUN",
+    "name": "SG-026 HALDEMAN",
+    "Weight": 3660,
+    "EN Load": 185
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SHOTGUN",
+    "name": "SG-7 ZIMMERMAN",
+    "Weight": 4400,
+    "EN Load": 242
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SHOTGUN",
+    "name": "WR-0777 SWEET SIXTEEN",
+    "Weight": 1640,
+    "EN Load": 268
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "HANDGUN",
+    "name": "HG-003 COQUILLETT",
+    "Weight": 1200,
+    "EN Load": 122
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "HANDGUN",
+    "name": "HG-004 DUCKETT",
+    "Weight": 1650,
+    "EN Load": 158
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BURST HANDGUN",
+    "name": "MA-E-211 SAMPU",
+    "Weight": 960,
+    "EN Load": 62
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "NEEDLE GUN",
+    "name": "EL-PW-00 VIENTO",
+    "Weight": 1180,
+    "EN Load": 215
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "STUN GUN",
+    "name": "VP-66EG",
+    "Weight": 980,
+    "EN Load": 247
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BAZOOKA",
+    "name": "DF-BA-06 XUAN-GE",
+    "Weight": 5480,
+    "EN Load": 240
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BAZOOKA",
+    "name": "MAJESTIC",
+    "Weight": 4660,
+    "EN Load": 178
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BAZOOKA",
+    "name": "LITTLE GEM",
+    "Weight": 2940,
+    "EN Load": 169
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "DETONATING BAZOOKA",
+    "name": "44-141 JVLN ALPHA",
+    "Weight": 5920,
+    "EN Load": 299
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GRENADE LAUNCHER",
+    "name": "DF-GR-07 GOU-CHEN",
+    "Weight": 4841,
+    "EN Load": 308
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GRENADE LAUNCHER",
+    "name": "DIZZY",
+    "Weight": 5590,
+    "EN Load": 364
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GRENADE LAUNCHER",
+    "name": "IRIDIUM",
+    "Weight": 2020,
+    "EN Load": 290
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "NAPALM BOMB LAUNCHER",
+    "name": "MA-T-222 KYORAI",
+    "Weight": 2890,
+    "EN Load": 60
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "JAMMING BOMB LAUNCHER",
+    "name": "MA-T-223 KYORIKU",
+    "Weight": 2600,
+    "EN Load": 52
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "STUN BOMB LAUNCHER",
+    "name": "WS-1200 THERAPIST",
+    "Weight": 3180,
+    "EN Load": 82
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "FLAMETHROWER",
+    "name": "WB-0000 BAD COOK",
+    "Weight": 5370,
+    "EN Load": 403
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER RIFLE",
+    "name": "VP-66LR",
+    "Weight": 3560,
+    "EN Load": 480
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER RIFLE",
+    "name": "VE-66LRA",
+    "Weight": 4940,
+    "EN Load": 532
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER RIFLE",
+    "name": "VE-66LRB",
+    "Weight": 7760,
+    "EN Load": 604
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER SHOTGUN",
+    "name": "VP-66LS",
+    "Weight": 3540,
+    "EN Load": 510
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER SHOTGUN",
+    "name": "WUERGER/66E",
+    "Weight": 2880,
+    "EN Load": 440
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER HANDGUN",
+    "name": "VP-66LH",
+    "Weight": 2800,
+    "EN Load": 395
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PLASMA RIFLE",
+    "name": "Vvc-760PR",
+    "Weight": 3330,
+    "EN Load": 490
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PLASMA RIFLE",
+    "name": "IA-C01W1: NEBULA",
+    "Weight": 3890,
+    "EN Load": 609
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "CORAL RIFLE",
+    "name": "IA-C01W6: NB-REDSHIFT",
+    "Weight": 4040,
+    "EN Load": 667
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "CORAL RIFLE",
+    "name": "IB-C03W1: WLT 011",
+    "Weight": 9030,
+    "EN Load": 850
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MULTI ENERGY RIFLE",
+    "name": "44-142 KRSV",
+    "Weight": 10120,
+    "EN Load": 707
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PULSE GUN",
+    "name": "HI-16: GU-Q1",
+    "Weight": 2110,
+    "EN Load": 368
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PULSE GUN",
+    "name": "HI-18: GU-A2",
+    "Weight": 2650,
+    "EN Load": 446
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MISSILE LAUNCHER",
+    "name": "HML-G2/P19MLT-04",
+    "Weight": 3250,
+    "EN Load": 165
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SPLIT MISSILE LAUNCHER",
+    "name": "HML-G3/P08SPL-06",
+    "Weight": 4630,
+    "EN Load": 180
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SIEGE MISSILE LAUNCHER",
+    "name": "WS-5000 APERITIF",
+    "Weight": 4600,
+    "EN Load": 165
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-ARM UNIT", "L-ARM UNIT", "R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PULSE MISSILE LAUNCHER",
+    "name": "PFAU/66D",
+    "Weight": 3630,
+    "EN Load": 392
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "PILE BUNKER",
+    "name": "PB-033M ASHMEAD",
+    "Weight": 4180,
+    "EN Load": 225
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "EXPLOSIVE THROWER",
+    "name": "DF-ET-09 TAI-YANG-SHOU",
+    "Weight": 3790,
+    "EN Load": 160
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "CHAINSAW",
+    "name": "WB-0010 DOUBLE TROUBLE",
+    "Weight": 5090,
+    "EN Load": 108
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "STUN BATON",
+    "name": "VP-67EB",
+    "Weight": 1720,
+    "EN Load": 198
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "LASER DAGGER",
+    "name": "VP-67LD",
+    "Weight": 1350,
+    "EN Load": 150
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "LASER BLADE",
+    "name": "Vvc-770LB",
+    "Weight": 2060,
+    "EN Load": 245
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "LASER SLICER",
+    "name": "Vvc-774LS",
+    "Weight": 3260,
+    "EN Load": 328
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "LASER LANCE",
+    "name": "VE-67LLA",
+    "Weight": 4520,
+    "EN Load": 460
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "PLASMA THROWER",
+    "name": "44-143 HMMR",
+    "Weight": 2410,
+    "EN Load": 311
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "PULSE BLADE",
+    "name": "HI-32: BU-TT/A",
+    "Weight": 1800,
+    "EN Load": 213
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "LIGHT WAVE BLADE",
+    "name": "IA-C01W2: MOONLIGHT",
+    "Weight": 2200,
+    "EN Load": 544
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "CORAL OSCILLATOR",
+    "name": "IA-C01W7: ML-REDSHIFT",
+    "Weight": 2200,
+    "EN Load": 544
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-ARM UNIT", "L-BACK UNIT"],
+    "type": "CORAL OSCILLATOR",
+    "name": "IB-C03W2: WLT 101",
+    "Weight": 2030,
+    "EN Load": 578
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GATLING CANNON",
+    "name": "DF-GA-09 SHAO-WEI",
+    "Weight": 3960,
+    "EN Load": 404
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SPREAD BAZOOKA",
+    "name": "SB-033M MORLEY",
+    "Weight": 6580,
+    "EN Load": 465
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GRENADE CANNON",
+    "name": "EARSHOT",
+    "Weight": 7230,
+    "EN Load": 386
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "GRENADE CANNON",
+    "name": "SONGBIRDS",
+    "Weight": 5500,
+    "EN Load": 285
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "STUN NEEDLE LAUNCHER",
+    "name": "VE-60SNA",
+    "Weight": 6150,
+    "EN Load": 825
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER CANNON",
+    "name": "VP-60LCS",
+    "Weight": 5190,
+    "EN Load": 683
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER CANNON",
+    "name": "VE-60LCA",
+    "Weight": 14820,
+    "EN Load": 1200
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER CANNON",
+    "name": "VE-60LCB",
+    "Weight": 9270,
+    "EN Load": 803
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "DIFFUSE LASER CANNON",
+    "name": "VP-60LCD",
+    "Weight": 7620,
+    "EN Load": 784
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PLASMA CANNON",
+    "name": "FASAN/60E",
+    "Weight": 6270,
+    "EN Load": 882
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PULSE CANNON",
+    "name": "KRANICH/60Z",
+    "Weight": 2100,
+    "EN Load": 652
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PULSE SHIELD LAUNCHER",
+    "name": "EULE/60D",
+    "Weight": 2760,
+    "EN Load": 382
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LIGHT WAVE CANNON",
+    "name": "IA-C01W3: AURORA",
+    "Weight": 3330,
+    "EN Load": 390
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MISSILE LAUNCHER",
+    "name": "BML-G1/P20MLT-04",
+    "Weight": 2120,
+    "EN Load": 154
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MISSILE LAUNCHER",
+    "name": "BML-G2/P03MLT-06",
+    "Weight": 3610,
+    "EN Load": 241
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "MISSILE LAUNCHER",
+    "name": "BML-G2/P05MLT-10",
+    "Weight": 5220,
+    "EN Load": 320
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SPLIT MISSILE LAUNCHER",
+    "name": "BML-G2/P19SPL-12",
+    "Weight": 3580,
+    "EN Load": 325
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SPLIT MISSILE LAUNCHER",
+    "name": "BML-G2/P16SPL-08",
+    "Weight": 2800,
+    "EN Load": 228
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SPLIT MISSILE LAUNCHER",
+    "name": "BML-G2/P17SPL-16",
+    "Weight": 5010,
+    "EN Load": 510
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "DUAL MISSILE LAUNCHER",
+    "name": "BML-G1/P31DUO-02",
+    "Weight": 1900,
+    "EN Load": 182
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "DUAL MISSILE LAUNCHER",
+    "name": "BML-G1/P32DUO-03",
+    "Weight": 3450,
+    "EN Load": 262
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "DUAL MISSILE LAUNCHER",
+    "name": "BML-G2/P08DUO-03",
+    "Weight": 4020,
+    "EN Load": 332
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "VERTICAL MISSILE LAUNCHER",
+    "name": "BML-G1/P01VTC-04",
+    "Weight": 2240,
+    "EN Load": 258
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "VERTICAL MISSILE LAUNCHER",
+    "name": "BML-G1/P03VTC-08",
+    "Weight": 3920,
+    "EN Load": 380
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "VERTICAL MISSILE LAUNCHER",
+    "name": "BML-G1/P07VTC-12",
+    "Weight": 5010,
+    "EN Load": 525
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "ACTIVE HOMING MISSILE LAUNCHER",
+    "name": "BML-G3/P04ACT-01",
+    "Weight": 2270,
+    "EN Load": 213
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "ACTIVE HOMING MISSILE LAUNCHER",
+    "name": "BML-G3/P05ACT-02",
+    "Weight": 4320,
+    "EN Load": 424
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "CONTAINER MISSILE LAUNCHER",
+    "name": "BML-G1/P29CNT",
+    "Weight": 6370,
+    "EN Load": 150
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "CLUSTER MISSILE LAUNCHER",
+    "name": "WR-0999 DELIVERY BOY",
+    "Weight": 6890,
+    "EN Load": 499
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "SCATTER MISSILE LAUNCHER",
+    "name": "WS-5001 SOUP",
+    "Weight": 5620,
+    "EN Load": 680
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "DETONATING MISSILE LAUNCHER",
+    "name": "45-091 JVLN BETA",
+    "Weight": 4250,
+    "EN Load": 425
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "NEEDLE MISSILE LAUNCHER",
+    "name": "EL-PW-01 TRUENO",
+    "Weight": 3100,
+    "EN Load": 420
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PLASMA MISSILE LAUNCHER",
+    "name": "Vvc-703PM",
+    "Weight": 2310,
+    "EN Load": 210
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PLASMA MISSILE LAUNCHER",
+    "name": "Vvc-706PM",
+    "Weight": 3650,
+    "EN Load": 276
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "PLASMA MISSILE LAUNCHER",
+    "name": "Vvc-70VPM",
+    "Weight": 3760,
+    "EN Load": 268
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "CORAL MISSILE LAUNCHER",
+    "name": "IB-C03W3: NGI 006",
+    "Weight": 4200,
+    "EN Load": 783
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "BULLET ORBIT",
+    "name": "BO-044 HUXLEY",
+    "Weight": 2230,
+    "EN Load": 435
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER ORBIT",
+    "name": "45-091 ORBT",
+    "Weight": 2010,
+    "EN Load": 446
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER TURRET",
+    "name": "VP-60LT",
+    "Weight": 2800,
+    "EN Load": 560
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["R-BACK UNIT", "L-BACK UNIT"],
+    "type": "LASER DRONE",
+    "name": "Vvc-700LD",
+    "Weight": 3800,
+    "EN Load": 570
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "PULSE SHIELD",
+    "name": "VP-61PS",
+    "Weight": 2700,
+    "EN Load": 310
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "PULSE SHIELD",
+    "name": "SI-24: SU-Q5",
+    "Weight": 2010,
+    "EN Load": 220
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "PULSE SHIELD",
+    "name": "SI-27: SU-R8",
+    "Weight": 3150,
+    "EN Load": 323
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "PULSE BUCKLER",
+    "name": "VP-61PB",
+    "Weight": 1920,
+    "EN Load": 285
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "PULSE BUCKLER",
+    "name": "SI-29: SU-TT/C",
+    "Weight": 3380,
+    "EN Load": 385
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "PULSE SCUTUM",
+    "name": "VE-61PSA",
+    "Weight": 4100,
+    "EN Load": 480
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "UNIT",
+    "slots": ["L-BACK UNIT"],
+    "type": "CORAL SHIELD",
+    "name": "IB-C03W4: NGI 028",
+    "Weight": 2170,
+    "EN Load": 800
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "AH-J-124 BASHO",
+    "Weight": 4600,
+    "EN Load": 95
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "AH-J-124/RC JAILBREAK",
+    "Weight": 4250,
+    "EN Load": 95
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HD-011 MELANDER",
+    "Weight": 3160,
+    "EN Load": 135
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HD-033M VERRIL",
+    "Weight": 3830,
+    "EN Load": 240
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HD-012 MELANDER C3",
+    "Weight": 3300,
+    "EN Load": 165
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "DF-HD-08 TIAN-QIANG",
+    "Weight": 1230,
+    "EN Load": 88
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "VP-44S",
+    "Weight": 3080,
+    "EN Load": 148
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "VP-44D",
+    "Weight": 3260,
+    "EN Load": 177
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "NACHTREIHER/44E",
+    "Weight": 2320,
+    "EN Load": 210
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "KASUAR/44Z",
+    "Weight": 2590,
+    "EN Load": 254
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "LAMMERGEIER/44F",
+    "Weight": 1050,
+    "EN Load": 220
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "VE-44A",
+    "Weight": 3640,
+    "EN Load": 182
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "VE-44B",
+    "Weight": 4320,
+    "EN Load": 265
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HC-2000 FINDER EYE",
+    "Weight": 2670,
+    "EN Load": 84
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HC-2000/BC SHADE EYE",
+    "Weight": 3090,
+    "EN Load": 163
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HC-3000 WRECKER",
+    "Weight": 3800,
+    "EN Load": 102
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "HS-5000 APPETIZER",
+    "Weight": 3000,
+    "EN Load": 103
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "EL-TH-10 FIRMEZA",
+    "Weight": 2370,
+    "EN Load": 134
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "EL-PH-00 ALBA",
+    "Weight": 2800,
+    "EN Load": 205
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "20-081 MIND ALPHA",
+    "Weight": 3350,
+    "EN Load": 142
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "20-082 MIND BETA",
+    "Weight": 3460,
+    "EN Load": 128
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "IA-C01H: EPHEMERA",
+    "Weight": 4330,
+    "EN Load": 233
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["HEAD"],
+    "type": "HEAD",
+    "name": "IA-C01H: HAL 826",
+    "Weight": 3760,
+    "EN Load": 215
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "AC-J-120 BASHO",
+    "Weight": 16100,
+    "EN Load": 300,
+    "Generator Output Adj.": 85
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "AC-J-120/RC JAILBREAK",
+    "Weight": 12350,
+    "EN Load": 300,
+    "Generator Output Adj.": 83
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "BD-011 MELANDER",
+    "Weight": 15200,
+    "EN Load": 304,
+    "Generator Output Adj.": 105
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "BD-012 MELANDER C3",
+    "Weight": 13700,
+    "EN Load": 322,
+    "Generator Output Adj.": 102
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "DF-BD-08 TIAN-QIANG",
+    "Weight": 20650,
+    "EN Load": 388,
+    "Generator Output Adj.": 114
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "VP-40S",
+    "Weight": 15030,
+    "EN Load": 337,
+    "Generator Output Adj.": 111
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "NACHTREIHER/40E",
+    "Weight": 9820,
+    "EN Load": 330,
+    "Generator Output Adj.": 91
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "LAMMERGEIER/40F",
+    "Weight": 9700,
+    "EN Load": 341,
+    "Generator Output Adj.": 117
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "VE-40A",
+    "Weight": 21100,
+    "EN Load": 432,
+    "Generator Output Adj.": 122
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "BCC-2000 ORBITER",
+    "Weight": 12650,
+    "EN Load": 267,
+    "Generator Output Adj.": 103
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "CC-3000 WRECKER",
+    "Weight": 19000,
+    "EN Load": 310,
+    "Generator Output Adj.": 96
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "CS-5000 MAIN DISH",
+    "Weight": 23600,
+    "EN Load": 413,
+    "Generator Output Adj.": 97
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "EL-TC-10 FIRMEZA",
+    "Weight": 10890,
+    "EN Load": 351,
+    "Generator Output Adj.": 109
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "EL-PC-00 ALBA",
+    "Weight": 12000,
+    "EN Load": 315,
+    "Generator Output Adj.": 101
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "07-061 MIND ALPHA",
+    "Weight": 16510,
+    "EN Load": 364,
+    "Generator Output Adj.": 112
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "IA-C01C: EPHEMERA",
+    "Weight": 13200,
+    "EN Load": 412,
+    "Generator Output Adj.": 126
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["CORE"],
+    "type": "CORE",
+    "name": "IB-C03C: HAL 826",
+    "Weight": 18520,
+    "EN Load": 366,
+    "Generator Output Adj.": 120
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AA-J-123 BASHO",
+    "Weight": 10480,
+    "EN Load": 210,
+    "Arms Load Limit": 10520
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AA-J-123/RC JAILBREAK",
+    "Weight": 8480,
+    "EN Load": 210,
+    "Arms Load Limit": 10520
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AR-011 MELANDER",
+    "Weight": 13650,
+    "EN Load": 265,
+    "Arms Load Limit": 15100
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AR-012 MELANDER C3",
+    "Weight": 12000,
+    "EN Load": 232,
+    "Arms Load Limit": 12000
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "DF-AR-08 TIAN-QIANG",
+    "Weight": 20020,
+    "EN Load": 295,
+    "Arms Load Limit": 19500
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "DF-AR-09 TIAN-LAO",
+    "Weight": 26740,
+    "EN Load": 266,
+    "Arms Load Limit": 17200
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "VP-46S",
+    "Weight": 14020,
+    "EN Load": 278,
+    "Arms Load Limit": 14520
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "VP-46D",
+    "Weight": 10990,
+    "EN Load": 248,
+    "Arms Load Limit": 11800
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "NACHTREIHER/46E",
+    "Weight": 11420,
+    "EN Load": 290,
+    "Arms Load Limit": 12730
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "LAMMERGEIER/46F",
+    "Weight": 9700,
+    "EN Load": 328,
+    "Arms Load Limit": 11970
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "VE-46A",
+    "Weight": 22210,
+    "EN Load": 380,
+    "Arms Load Limit": 21300
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AC-2000 TOOL ARM",
+    "Weight": 11300,
+    "EN Load": 216,
+    "Arms Load Limit": 13300
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AC-3000 WRECKER",
+    "Weight": 14150,
+    "EN Load": 220,
+    "Arms Load Limit": 15800
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "AS-5000 SALAD",
+    "Weight": 20940,
+    "EN Load": 218,
+    "Arms Load Limit": 18700
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "EL-TA-10 FIRMEZA",
+    "Weight": 11220,
+    "EN Load": 270,
+    "Arms Load Limit": 13540
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "EL-PA-00 ALBA",
+    "Weight": 9810,
+    "EN Load": 315,
+    "Arms Load Limit": 11350
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "04-101 MIND ALPHA",
+    "Weight": 16960,
+    "EN Load": 358,
+    "Arms Load Limit": 15550
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "IA-C01A: EPHEMERA",
+    "Weight": 12700,
+    "EN Load": 312,
+    "Arms Load Limit": 12680
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["ARMS"],
+    "type": "ARMS",
+    "name": "IB-C03A: HAL 826",
+    "Weight": 14160,
+    "EN Load": 300,
+    "Arms Load Limit": 14000
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "AL-J-121 BASHO",
+    "Weight": 19720,
+    "EN Load": 300,
+    "Load Limit": 62600
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "AL-J-121/RC JAILBREAK",
+    "Weight": 18560,
+    "EN Load": 300,
+    "Load Limit": 62600
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "LG-011 MELANDER",
+    "Weight": 17960,
+    "EN Load": 365,
+    "Load Limit": 60520
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "LG-012 MELANDER C3",
+    "Weight": 16520,
+    "EN Load": 355,
+    "Load Limit": 55440
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "DF-LG-08 TIAN-QIANG",
+    "Weight": 26950,
+    "EN Load": 400,
+    "Load Limit": 82600
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "VP-422",
+    "Weight": 17170,
+    "EN Load": 387,
+    "Load Limit": 58620
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "NACHTREIHER/42E",
+    "Weight": 14030,
+    "EN Load": 462,
+    "Load Limit": 48650
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "VE-42A",
+    "Weight": 31580,
+    "EN Load": 465,
+    "Load Limit": 85700
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "2C-2000 CRAWLER",
+    "Weight": 16300,
+    "EN Load": 280,
+    "Load Limit": 53700
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "2C-3000 WRECKER",
+    "Weight": 23230,
+    "EN Load": 680,
+    "Load Limit": 68900
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "2S-5000 DESSERT",
+    "Weight": 27180,
+    "EN Load": 420,
+    "Load Limit": 77100
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "EL-TL-10 FIRMEZA",
+    "Weight": 11200,
+    "EN Load": 378,
+    "Load Limit": 52100
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "EL-PL-00 ALBA",
+    "Weight": 13150,
+    "EN Load": 360,
+    "Load Limit": 50100
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "06-041 MIND ALPHA",
+    "Weight": 20810,
+    "EN Load": 412,
+    "Load Limit": 63810
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "IA-C01L: EPHEMERA",
+    "Weight": 15200,
+    "EN Load": 398,
+    "Load Limit": 55050
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "BIPEDAL",
+    "name": "IB-C03L: HAL 826",
+    "Weight": 20590,
+    "EN Load": 385,
+    "Load Limit": 64900
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "REVERSE JOINT",
+    "name": "KASUAR/42Z",
+    "Weight": 16510,
+    "EN Load": 388,
+    "Load Limit": 49280
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "REVERSE JOINT",
+    "name": "RC-2000 SPRING CHICKEN",
+    "Weight": 25340,
+    "EN Load": 402,
+    "Load Limit": 70360
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "REVERSE JOINT",
+    "name": "06-042 MIND BETA",
+    "Weight": 19750,
+    "EN Load": 426,
+    "Load Limit": 61600
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "TETRAPOD",
+    "name": "LG-033M VERRILL",
+    "Weight": 36200,
+    "EN Load": 675,
+    "Load Limit": 76200
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "TETRAPOD",
+    "name": "VP-424",
+    "Weight": 31600,
+    "EN Load": 760,
+    "Load Limit": 69800
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "TETRAPOD",
+    "name": "LAMMERGEIER/42F",
+    "Weight": 22430,
+    "EN Load": 790,
+    "Load Limit": 52460
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "TANK",
+    "name": "LG-022T BORNEMISSZA",
+    "Weight": 49800,
+    "EN Load": 455,
+    "Load Limit": 100300
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "TANK",
+    "name": "VE-42B",
+    "Weight": 46600,
+    "EN Load": 824,
+    "Load Limit": 91000
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "FRAME",
+    "slots": ["LEGS"],
+    "type": "TANK",
+    "name": "EL-TL-11 FORTALEZA",
+    "Weight": 24650,
+    "EN Load": 620,
+    "Load Limit": 69300
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "AB-J-137 KIKAKU",
+    "Weight": 1820,
+    "EN Load": 266
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BST-G1/P10",
+    "Weight": 1300,
+    "EN Load": 130
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BST-G2/P04",
+    "Weight": 1710,
+    "EN Load": 250
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BST-G2/P06SPD",
+    "Weight": 1420,
+    "EN Load": 390
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "ALULA/21E",
+    "Weight": 1900,
+    "EN Load": 410
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "FLUEGEL/21Z",
+    "Weight": 1980,
+    "EN Load": 282
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BUERZEL/21D",
+    "Weight": 2240,
+    "EN Load": 480
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BC-0600 12345",
+    "Weight": 1360,
+    "EN Load": 180
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BC-0400 MULE",
+    "Weight": 970,
+    "EN Load": 200
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "BC-0200 GRIDWALKER",
+    "Weight": 2010,
+    "EN Load": 244
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "IA-C01B: GILLS",
+    "Weight": 1590,
+    "EN Load": 400
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["BOOSTER"],
+    "type": "BOOSTER",
+    "name": "IB-C03B: NGI 001",
+    "Weight": 1930,
+    "EN Load": 342
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "FCS-G1/P01",
+    "Weight": 80,
+    "EN Load": 198
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "FCS-G2/P05",
+    "Weight": 100,
+    "EN Load": 232
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "FCS-G2/P10SLT",
+    "Weight": 120,
+    "EN Load": 209
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "FCS-G2/P12SML",
+    "Weight": 130,
+    "EN Load": 278
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "FC-006 ABBOT",
+    "Weight": 90,
+    "EN Load": 266
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "FC-008 TALBOT",
+    "Weight": 140,
+    "EN Load": 312
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "VE-21A",
+    "Weight": 85,
+    "EN Load": 320
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "VE-21B",
+    "Weight": 160,
+    "EN Load": 388
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "IA-C01F: OCELLUS",
+    "Weight": 130,
+    "EN Load": 292
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["FCS"],
+    "type": "FCS",
+    "name": "IB-C03F: WLT 001",
+    "Weight": 150,
+    "EN Load": 486
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "AG-J-098 JOSO",
+    "Weight": 3420,
+    "EN Output": 2600
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "AG-E-013 YABA",
+    "Weight": 5080,
+    "EN Output": 3000
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "AG-T-005 HOKUSHI",
+    "Weight": 7080,
+    "EN Output": 3810
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "DF-GN-02 LING-TAI",
+    "Weight": 3860,
+    "EN Output": 2340
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "DF-GN-06 MING-TANG",
+    "Weight": 6320,
+    "EN Output": 3310
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "DF-GN-08 SAN-TAI",
+    "Weight": 10060,
+    "EN Output": 3210
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "VP-20S",
+    "Weight": 3800,
+    "EN Output": 3400
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "VP-20C",
+    "Weight": 5320,
+    "EN Output": 3670
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "VP-20D",
+    "Weight": 11030,
+    "EN Output": 4430
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "VE-20A",
+    "Weight": 3590,
+    "EN Output": 3180
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "VE-20B",
+    "Weight": 5860,
+    "EN Output": 2890
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "VE-20C",
+    "Weight": 10130,
+    "EN Output": 4090
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "IA-C01G: AORTA",
+    "Weight": 4330,
+    "EN Output": 3500
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "INNER",
+    "slots": ["GENERATOR"],
+    "type": "GENERATOR",
+    "name": "IB-C03G: NGI 000",
+    "Weight": 8950,
+    "EN Output": 4340
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "EXPANSION",
+    "slots": ["EXPANSION"],
+    "type": "EXPANSION",
+    "name": "ASSAULT ARMOR",
+    "Weight": 0
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "EXPANSION",
+    "slots": ["EXPANSION"],
+    "type": "EXPANSION",
+    "name": "PULSE ARMOR",
+    "Weight": 0
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "EXPANSION",
+    "slots": ["EXPANSION"],
+    "type": "EXPANSION",
+    "name": "PULSE PROTECTION",
+    "Weight": 0
+  },
+  {
+    "game": "Armored Core 6: Fires of Rubicon",
+    "category": "EXPANSION",
+    "slots": ["EXPANSION"],
+    "type": "EXPANSION",
+    "name": "TERMINAL ARMOR",
+    "Weight": 0
+  }
+]
